@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.43.22859.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.545%0D%0AWelcome%20to%20this%20module%20on%20Selling%20online%20with%20Shopee.%20Press%20%22start%22%20to%20begin.%0D%0A%0D%0A"}')
